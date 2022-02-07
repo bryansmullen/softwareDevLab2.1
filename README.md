@@ -1,4 +1,4 @@
-# Week 1 Lab 2
+# Week 1 Lab 2.1
 
 ## Table Of Contents
 
@@ -25,4 +25,4 @@ any 2
 - JAVA
 - Github
 
-[BACK TO TOP](#week-1-lab-2)
+[BACK TO TOP](#week-1-lab-2.1)
